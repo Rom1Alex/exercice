@@ -1,0 +1,2 @@
+# exercice
+for scala exercices
